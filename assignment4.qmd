@@ -7,7 +7,7 @@ editor: visual
 
 This is an individual assignment. Turn in this assignment as an HTML or PDF file to ELMS. Make sure to include the R Markdown or Quarto file that was used to generate it. Include the GitHub link for the repository containing these files.
 
-Repository:
+Repository: <https://github.com/sarahglidden97/Assignment-4>
 
 ```{r}
 #| include: false 
